@@ -1,3 +1,5 @@
 voici un autre fichier texte
 
 et maintenant on modifie depuis github
+
+et on modifie aussi depuis ma machine locale
